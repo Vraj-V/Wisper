@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "demo_places",
+        "DB_PASSWORD": "place123",
+        "DB_NAME": "ANOY",
+        "JWT_TOKEN": "supersecret_dont_share"
+    }
+}
